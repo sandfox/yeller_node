@@ -1,6 +1,8 @@
 # yeller_node
 
-* This isn't an official Yellerapp npm package. I've just published this here to help testing/deploying. I'm sure yellerapp will publish it officially once it's stable*
+* Don't use this, it's now depreciated*
+* Use the official yellerapp package - https://www.npmjs.com/package/yeller_node / https://www.npmjs.com/package/yeller_node *
+
 
 [Yeller](http://yellerapp.com) notifier for node.js
 
